@@ -1,0 +1,22 @@
+hola no es un par metro correcto.
+---- Comandos compatibles ----
+
+8dot3name       Administraci¢n de 8dot3name
+behavior        Controla el comportamiento del sistema de archivos
+dax             Administraci¢n de volumen DAX
+dirty           Administra el bit de integridad del volumen
+file            Comandos espec¡ficos de archivos
+fsInfo          Informaci¢n del sistema de archivos
+hardlink        Administraci¢n de v¡nculos f¡sicos
+objectID        Administraci¢n de id. de objeto
+quota           Administraci¢n de cuota
+repair          Administraci¢n de recuperaci¢n autom tica
+reparsePoint    Administraci¢n de punto de repetici¢n de an lisis
+storageReserve         Administraci¢n de reserva de almacenamiento
+resource        Administraci¢n del administrador de recursos transaccionales
+sparse          Control de archivo disperso
+tiering         Administraci¢n de propiedades de organizaci¢n en niveles de almacenamiento
+transaction     Administraci¢n de transacciones
+usn             Administraci¢n de USN
+volume          Administraci¢n de vol£menes
+wim             Administraci¢n transparente del hospedaje de WIM
