@@ -98,7 +98,7 @@ Ejemplo de Listas de tareas
 
 **Mencionar personas y equipos:**
 
-Llamar la atención de una persona en github @github/narfesan  Qué opinas de esta materia?
+Llamar la atención de una persona en github @github/narfesan Qué opinas de esta materia?
 
 
 **Hacer referencia a recursos externos:**
@@ -247,11 +247,35 @@ Hola Mundo! OTRA VEZ.
 
 **Crear diagramas de Mermaid**
 
+ ```mermaid
+    sequenceDiagram
+      Alice->>John: Hola John, ¿cómo estás?
+      John-->>Alice: ¡Genial! Gracias por preguntar ¿Y tú?.
+      Alice->>John: Muy bien ¡Hasta luego!
+      John-->>Alice: Chao.
+  ```
+
+```mermaid
+graph TD
+    P["Perros Pastores"] --> R["Raza"]
+    P --> E["Edad"]
+    P --> C["Color"]
+    P --> T["Tamaño"]
+    R --> C1["Pastor Alemán"]
+    R --> C2["Border Collie"]
+    R --> C3["Pastor Australiano"]
+    R --> C4["Palleiro"]
+```
+
+
+**Acerca de la escritura de expresiones matemáticas:**
+
+
+Esta oración muestra una ecuación $: e^{i\pi} + 1 = 0$
 
 
 
-
-
+## Este es el final del documento README.
 
 
 
