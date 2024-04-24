@@ -59,11 +59,10 @@ A continuación vemos un ejemplo de una imagen ![Perritos.](https://get.pxhere.c
 
 
 Especificar temas en los que se muestra una imagen en concreto, así por ejemplo, en caso de funcionar, a continuación se mostraría un umbreon en caso de un tema oscuro y un flareon en caso de un tema claro:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bbd7267a-5882-49b6-a6da-38fc3c170308/dexduzb-10f011ed-762d-4a1a-ae2c-fc37b7b333f2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiZDcyNjdhLTU4ODItNDliNi1hNmRhLTM4ZmMzYzE3MDMwOFwvZGV4ZHV6Yi0xMGYwMTFlZC03NjJkLTRhMWEtYWUyYy1mYzM3YjdiMzMzZjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-11JmH91OKXvqQ9G2IJ2rGypiU-YYp64jDOfyPhtgKU)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cad2f9f1-b08c-4bd6-b69a-06061115b8b9/dd3lvk2-6c42d8ae-1774-49f3-9bfc-316c2ef02ddb.jpg/v1/fill/w_800,h_800,q_75,strp/flareon_by_nevedoodle_dd3lvk2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvY2FkMmY5ZjEtYjA4Yy00YmQ2LWI2OWEtMDYwNjExMTViOGI5XC9kZDNsdmsyLTZjNDJkOGFlLTE3NzQtNDlmMy05YmZjLTMxNmMyZWYwMmRkYi5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.c1mfukaO_R25bAaJl8E_3jtDkPtkFL1fTIySxolXaZA">
 
-<img alt="Diferente en oscuro o claro.">
+<picture>
+  <source srcset="https://static.vecteezy.com/system/resources/previews/000/551/121/non_2x/vector-cartoon-sun.jpg" media="(prefers-color-scheme: dark)">
+  <img src="https://pm1.aminoapps.com/6536/dbcc24b9a05e0633f19e3f7cde9d48f33fa69dad_00.jpg" alt="Imagen Modo Claro">
 </picture>
 
 
