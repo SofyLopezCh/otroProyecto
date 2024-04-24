@@ -61,8 +61,8 @@ A continuación vemos un ejemplo de una imagen ![Perritos.](https://get.pxhere.c
 Especificar temas en los que se muestra una imagen en concreto, así por ejemplo, en caso de funcionar, a continuación se mostraría un umbreon en caso de un tema oscuro y un flareon en caso de un tema claro:
 
 <picture>
-  <source srcset="https://static.vecteezy.com/system/resources/previews/000/551/121/non_2x/vector-cartoon-sun.jpg" media="(prefers-color-scheme: dark)">
-  <img src="https://pm1.aminoapps.com/6536/dbcc24b9a05e0633f19e3f7cde9d48f33fa69dad_00.jpg" alt="Imagen Modo Claro">
+  <source srcset="https://pm1.aminoapps.com/6536/dbcc24b9a05e0633f19e3f7cde9d48f33fa69dad_00.jpg" media="(prefers-color-scheme: dark)">
+  <img src="https://static.vecteezy.com/system/resources/previews/000/551/121/non_2x/vector-cartoon-sun.jpg" alt="Imagen Modo Claro">
 </picture>
 
 
