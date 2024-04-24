@@ -62,7 +62,7 @@ Especificar temas en los que se muestra una imagen en concreto, así por ejemplo
 
 <picture>
   <source srcset="https://pm1.aminoapps.com/6536/dbcc24b9a05e0633f19e3f7cde9d48f33fa69dad_00.jpg" media="(prefers-color-scheme: dark)">
-  <img src="https://static.vecteezy.com/system/resources/previews/000/551/121/non_2x/vector-cartoon-sun.jpg" alt="Imagen Modo Claro">
+  <img src="https://pbs.twimg.com/media/Fu_4f6bWYAE7S8_?format=jpg&name=4096x4096" alt="Imagen Modo Claro">
 </picture>
 
 
